@@ -1,24 +1,7 @@
 {
   "name": "Neo60",
   "vendorProductId": 917516380,
-  "macros": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
       "KC_GESC",
@@ -148,7 +131,7 @@
       "KC_F10",
       "KC_F11",
       "KC_F12",
-      "CUSTOM(10)",
+      "KC_DEL",
       "KC_JYEN",
       "KC_NO",
       "CUSTOM(4)",
@@ -164,7 +147,7 @@
       "KC_MPLY",
       "KC_LBRC",
       "KC_RBRC",
-      "KC_BSLS",
+      "CUSTOM(10)",
       "KC_NO",
       "KC_NO",
       "KC_CAPS",
